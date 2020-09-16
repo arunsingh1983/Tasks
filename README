@@ -1,7 +1,7 @@
 1.  Challenge1 - Terraform (IaC) has been used to create a sample 3 tier architecture.
 
 2. Challenge2 - Shell script is used developed script in order to query the meta data of an instance within aws.
-   Below is the syntax to run procedure
+   Below is the syntax to run script 
    
    scenario 1 : $ sh  challenge2.sh    
                (It will return instance metadeta in json format)
